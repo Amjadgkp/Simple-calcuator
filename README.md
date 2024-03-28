@@ -25,3 +25,5 @@ Usage
 Enter numbers and perform arithmetic operations using the buttons provided.
 Click the "=" button to see the result of the calculation.
 Use the "C" button to clear the input field and start a new calculation.
+
+Note:- HTML And JavaScript code both have a same file.
